@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <div id="mainbody">
-	<?php if ( is_search() ) {  ?>
+    <?php if ( is_search() ) {  ?>
     <div class="mainsearch">Search Status: "<?php echo $s; ?>"</div>
     <?php } else { ?>
     <?php if (get_option('yoshz_featured') == "on") { ?>
@@ -35,7 +35,7 @@
         <div class="maincontent">
             <?php excerpt('30'); ?>
         </div>
-        <div class="maincom"><?php comments_popup_link('No Comment', '1 Comment', '% Comments'); ?> | <a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>">Read More &raquo;</a></div>
+        <div class="maincom"><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>">Read More &raquo;</a></div>
     	<div class="clear"></div>
     </div>
     <?php if ($postcount == 2 || $postcount == 4 || $postcount == 6 || $postcount == 8 || $postcount == 10) : ?>
