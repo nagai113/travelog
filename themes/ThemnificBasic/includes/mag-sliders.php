@@ -1,0 +1,1 @@
+<?php get_template_part('/includes/sliders/mag_slider1_large');?>
