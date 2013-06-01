@@ -61,7 +61,7 @@ if((is_home() && ($paged < 2 )) || is_single() || is_page() || is_category()){
 	<div id="header">
         <div class="banner">
         	<div class="logo">
-        	<h1><a href="<?php echo get_option('home'); ?>"><?php bloginfo( 'name' ); ?><img src="http://travelog.shigaakihito.com/wp-content/uploads/2013/05/cropped-aaa-e1370087679359.jpg"></h1></a>
+        	<h1><a href="<?php echo get_option('home'); ?>"><?php bloginfo( 'name' ); ?></h1></a>
             <?php bloginfo('description'); ?>
             </div>
         </div>
