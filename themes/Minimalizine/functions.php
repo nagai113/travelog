@@ -134,5 +134,5 @@ function mytheme_comment($comment, $args, $depth) {
 		</div>
 
 <?php
-}
-?>
+}?>
+<?php add_theme_support('post-thumbnails'); ?>
