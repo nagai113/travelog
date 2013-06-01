@@ -33,9 +33,9 @@
         <div class="submain"><?php the_time('F, d Y') ?>  </div>
     	<div class="clear"></div>
         <div class="maincontent">
-            <?php excerpt('30'); ?>
+            <?php excerpt('15'); ?>
         </div>
-        <div class="maincom"><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>">Read More &raquo;</a></div>
+        <div class="maincom"><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>">続き読む... &raquo;</a></div>
     	<div class="clear"></div>
     </div>
     <?php if ($postcount == 2 || $postcount == 4 || $postcount == 6 || $postcount == 8 || $postcount == 10) : ?>
@@ -47,4 +47,3 @@
 </div>
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
-<?php get_foot(); ?>
