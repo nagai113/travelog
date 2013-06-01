@@ -61,14 +61,8 @@ if((is_home() && ($paged < 2 )) || is_single() || is_page() || is_category()){
 	<div id="header">
         <div class="banner">
         	<div class="logo">
-        	<h1><a href="<?php echo get_option('home'); ?>"><?php bloginfo( 'name' ); ?></a></h1>
+        	<h1><a href="<?php echo get_option('home'); ?>"><?php bloginfo( 'name' ); ?><img src="http://travelog.shigaakihito.com/wp-content/uploads/2013/05/cropped-aaa-e1370087679359.jpg"></h1></a>
             <?php bloginfo('description'); ?>
-            </div>
-            <div class="headsearch">
-                <form method="get" id="searchform" action="<?php bloginfo('url'); ?>">
-                <input type="text" value="Search..." onfocus="if (this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" name="s" id="s" />
-                <input type="image" src="<?php bloginfo('template_directory'); ?>/images/transparent.gif" id="go" alt="" title="Search" />
-                </form>
             </div>
         </div>
         <?php
