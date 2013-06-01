@@ -1,0 +1,614 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Translation File\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-06 17:21+0100\n"
+"PO-Revision-Date: 2012-03-06 17:22+0100\n"
+"Last-Translator: Željan Topić <admin@bizzartic.com>\n"
+"Language-Team: BizzThemes <info@bizzthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: SLOVENIA\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lib_frame/frame_actions.php:69
+#: ../lib_frame/frame_actions.php:112
+msgid "week"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:69
+#: ../lib_frame/frame_actions.php:70
+#: ../lib_frame/frame_actions.php:73
+#: ../lib_frame/frame_actions.php:74
+#: ../lib_frame/frame_actions.php:77
+#: ../lib_frame/frame_actions.php:78
+#: ../lib_frame/frame_actions.php:81
+#: ../lib_frame/frame_actions.php:84
+#: ../lib_frame/frame_actions.php:103
+#: ../lib_frame/frame_actions.php:107
+#: ../lib_frame/frame_actions.php:111
+#: ../lib_frame/frame_actions.php:115
+#: ../lib_frame/frame_actions.php:119
+#: ../lib_frame/frame_actions.php:123
+msgid "s"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:70
+#: ../lib_frame/frame_actions.php:73
+#: ../lib_frame/frame_actions.php:116
+msgid "day"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:74
+#: ../lib_frame/frame_actions.php:77
+#: ../lib_frame/frame_actions.php:120
+msgid "hour"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:78
+#: ../lib_frame/frame_actions.php:81
+#: ../lib_frame/frame_actions.php:84
+#: ../lib_frame/frame_actions.php:124
+msgid "minute"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:88
+msgid "Posted"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:88
+#: ../lib_frame/frame_actions.php:104
+#: ../lib_frame/frame_actions.php:108
+#: ../lib_frame/frame_actions.php:112
+#: ../lib_frame/frame_actions.php:116
+#: ../lib_frame/frame_actions.php:120
+#: ../lib_frame/frame_actions.php:124
+#: ../lib_frame/frame_actions.php:126
+msgid "ago"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:104
+msgid "year"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:108
+msgid "month"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:126
+msgid "moments"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:195
+#: ../lib_frame/frame_actions.php:255
+msgid "First"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:220
+#: ../lib_frame/frame_actions.php:256
+msgid "Last"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:257
+msgid "&raquo;"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:258
+msgid "&laquo;"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:259
+#: ../lib_frame/frame_actions.php:260
+msgid "..."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:834
+msgid "Theme configuration is not saved!<br/></br><br/><small>After theme activation go to theme options panel,<br/>where you may set up your theme ;)"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:848
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:850
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:865
+#: ../lib_frame/frame_actions.php:1196
+#: ../lib_frame/frame_actions.php:1224
+#: ../lib_frame/frame_actions.php:1252
+msgid "No Comments"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:865
+#: ../lib_frame/frame_actions.php:1196
+#: ../lib_frame/frame_actions.php:1224
+#: ../lib_frame/frame_actions.php:1252
+msgid "One Comment"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:865
+#: ../lib_frame/frame_actions.php:1196
+#: ../lib_frame/frame_actions.php:1224
+#: ../lib_frame/frame_actions.php:1252
+msgid "% Comments"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:875
+msgid "Trackbacks For This Post"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:887
+msgid "Comments are closed."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:897
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:902
+msgid "You must be"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:902
+msgid "logged in"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:902
+msgid "to post a comment."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:907
+msgid "logged in as"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:907
+msgid "Log out of this account"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:907
+msgid "Logout"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:911
+msgid "Name"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:911
+#: ../lib_frame/frame_actions.php:913
+msgid "*"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:913
+msgid "Email"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:915
+msgid "Website"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:918
+msgid "Add Comment"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:933
+msgid "Delete"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:934
+msgid "Spam"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:959
+#: ../lib_frame/frame_actions.php:1204
+#: ../lib_frame/frame_actions.php:1232
+#: ../lib_frame/frame_actions.php:1260
+msgid "Edit"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:961
+msgid "Reply"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:968
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1096
+msgid "Error 404 | Nothing found!"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1109
+msgid "Browsing Category"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1113
+msgid "Browsing Tag"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1117
+msgid "Browsing Posts of"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1121
+msgid "Browsing Day"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1125
+msgid "Browsing Month"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1129
+msgid "Browsing Year"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1133
+#: ../lib_frame/frame_seo.php:62
+msgid "Search results for"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1166
+msgid "Sorry, but you are looking for something that is not here."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1167
+msgid "Surfin&#8217; ain&#8217;t easy, and right now, you&#8217;re lost at sea. But don&#8217;t worry; simply pick an option from the list below, and you&#8217;ll be back out riding the waves of the Internet in no time."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1169
+msgid "Hit the &#8220;back&#8221; button on your browser. It&#8217;s perfect for situations like this!"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1170
+#, php-format
+msgid "Head on over to the <a href=\"%s\" rel=\"nofollow\">home page</a>."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1171
+msgid "You will find what you are looking for."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1376
+msgid "Top Questions"
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1579
+msgid "Error: Please make sure the Twitter account is <a href='http://help.twitter.com/forums/10711/entries/14016'>public</a>."
+msgstr ""
+
+#: ../lib_frame/frame_actions.php:1581
+msgid "Error: Twitter did not respond. Please wait a few minutes and refresh this page."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:27
+#: ../lib_frame/frame_editor.php:29
+#: ../lib_frame/frame_editor.php:31
+#: ../lib_frame/frame_editor.php:33
+msgid "Attention!"
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:27
+msgid "For security reasons, the file you are attempting to edit cannot be modified via this screen."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:29
+msgid "Your <code>custom/</code> directory does not appear to exist. Have you remembered to rename <code>/custom-sample</code>?"
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:31
+msgid "The file you are attempting does not appear to exist."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:33
+#, php-format
+msgid "Your <code>/custom/%s</code> file is not writable by the server, and in order to modify the file via the admin panel, BizzThemes needs to be able to write to this file. All you have to do is set this file&#8217;s permissions to 666, and you&#8217;ll be good to go."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:51
+msgid "Easy there, homey. You don&#8217;t have admin privileges to access theme options."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:61
+msgid "You have attempted to modify an ineligible file. Only files within the BizzThemes <code>/custom</code> folder may be modified via this interface. Thank you."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:102
+#, php-format
+msgid "Currently editing: <code>%s</code>"
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:106
+msgid "<strong>Note:</strong> Make sure you have <acronym title=\"File Transfer Protocol\">FTP</acronym> server access, before you start modifying <acronym title=\"PHP: Hypertext Preprocessor\">PHP</acronym> files. Bad code will make your site temporarily unusable."
+msgstr ""
+
+#: ../lib_frame/frame_editor.php:109
+msgid "File successfully updated."
+msgstr ""
+
+#: ../lib_frame/frame_seo.php:83
+msgid "Page"
+msgstr ""
+
+#: ../lib_frame/frame_shortcodes.php:445
+msgid "Pages:"
+msgstr ""
+
+#: ../lib_frame/frame_shortcodes.php:447
+msgid "Categories:"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:11
+msgid "BizzThemes Updates Control"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:14
+msgid "<strong>Important:</strong> before updating, please backup your database and all theme files."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:17
+msgid "Theme Update Control"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:42
+msgid "You are using the latest theme version."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:44
+msgid "Theme update is available."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:46
+msgid "Download latest theme version here"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:48
+msgid "To update your theme go through following steps:"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:50
+#: ../lib_frame/frame_updates.php:85
+msgid "Backup your old theme files and database."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:51
+msgid "Replace all files, leave Custom folder in root theme directory intact."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:52
+#: ../lib_frame/frame_updates.php:87
+msgid "That&#8217;s it!"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:60
+msgid "Framework Library Update Control"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:77
+msgid "You are using the latest BizzThemes framework."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:79
+msgid "Framework update is available."
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:81
+msgid "Download latest framework version here"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:83
+msgid "To update your theme framework go through following steps:"
+msgstr ""
+
+#: ../lib_frame/frame_updates.php:86
+msgid "Replace all files in lib_frame folder with new ones."
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:13
+msgid "Primary Menu"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:14
+msgid "Footer Menu"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:29
+msgid "FAQs"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:30
+msgid "FAQ"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:48
+msgid "FAQ Categories"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:49
+msgid "FAQ Category"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:60
+msgid "FAQ Tags"
+msgstr ""
+
+#: ../lib_theme/theme_functions.php:61
+msgid "FAQ Tag"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:45
+#: ../lib_theme/theme_options.php:65
+#: ../lib_theme/theme_options.php:85
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:46
+msgid "Logo"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:47
+#: ../lib_theme/theme_options.php:67
+#: ../lib_theme/theme_options.php:87
+msgid "Featured Posts"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:48
+#: ../lib_theme/theme_options.php:69
+#: ../lib_theme/theme_options.php:89
+msgid "Twitter Stream"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:49
+#: ../lib_theme/theme_options.php:68
+#: ../lib_theme/theme_options.php:88
+msgid "Additional Information"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:50
+msgid "Front Content"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:51
+msgid "Front Widgets"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:52
+#: ../lib_theme/theme_options.php:72
+#: ../lib_theme/theme_options.php:92
+msgid "Footer Credentials &amp; Navigation"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:66
+#: ../lib_theme/theme_options.php:86
+msgid "Logo & Search"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:70
+msgid "Archive Content & Sidebar"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:71
+msgid "Archive Widgets"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:90
+msgid "Post Content & Sidebar"
+msgstr ""
+
+#: ../lib_theme/theme_options.php:91
+msgid "Post Widgets"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:205
+msgid "Bizz - Flickr"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:244
+msgid "Widget Title:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:248
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:252
+msgid "Number:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:260
+msgid "Type:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:262
+msgid "User"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:263
+msgid "Group"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:267
+msgid "Sorting:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:269
+msgid "Latest"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:270
+msgid "Random"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:803
+msgid "Add links to you social profiles"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:804
+msgid "Social Links"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:822
+msgid "Facebook"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:823
+msgid "Twitter"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:824
+msgid "Flickr"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:825
+msgid "YouTube"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:826
+msgid "Linked In"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:827
+msgid "Vimeo"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:858
+msgid "Title:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:861
+msgid "Facebook URL:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:864
+msgid "Twitter URL:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:867
+msgid "Flickr URL:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:870
+msgid "YouTube URL:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:873
+msgid "Linked In URL:"
+msgstr ""
+
+#: ../lib_theme/theme_widgets.php:876
+msgid "Vimeo URL:"
+msgstr ""
+
+#: ../lib_theme/hooks/navigation.php:21
+msgid "Home"
+msgstr ""
+
+#: ../lib_theme/hooks/twitter.php:14
+#: ../lib_theme/hooks/twitter.php:15
+msgid "Follow us on Twitter"
+msgstr ""
+
